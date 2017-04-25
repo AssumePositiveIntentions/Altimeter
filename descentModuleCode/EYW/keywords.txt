@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EYW	KEYWORD1
+Altimeter	KEYWORD1
+Camera	KEYWORD1
+Accelerometer	KEYWORD1
+RangeFinder	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+alarm	KEYWORD2
+calibrate	KEYWORD2
+getHeight	KEYWORD2
+getHeightAvg	KEYWORD2
+beginTimer	KEYWORD2
+getPicture	KEYWORD2
+getAccel	KEYWORD2
+getAccelAvg	KEYWORD2
+getDistance	KEYWORD2
+
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
+baselineSLP	LITERAL1
+motor	LITERAL1
+buttonPressed	LITERAL1
+timerExpired	LITERAL1
+xAxis	LITERAL1
+yAxis	LITERAL1
+zAxis	LITERAL1
